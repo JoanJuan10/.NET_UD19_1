@@ -10,23 +10,22 @@ using System.Windows.Forms;
 
 namespace UD19_1
 {
-    public partial class Form1 : Form
+    public partial class Ej2 : Form
     {
-        public Form1()
+        public Ej2()
         {
             InitializeComponent();
         }
 
-        private void ej1Button_Click(object sender, EventArgs e)
+        private void boxPeliculas_SelectedIndexChanged(object sender, EventArgs e)
         {
-            Form ej1 = new Ej1();
-            ej1.Show();
+
         }
 
-        private void ej2Button_Click(object sender, EventArgs e)
+        private void addPelicula_Click(object sender, EventArgs e)
         {
-            Form ej2 = new Ej2();
-            ej2.Show();
+            string pelicula = tituloPelicula.Text;
+            boxPeliculas.Items.Add(pelicula);
         }
     }
 }

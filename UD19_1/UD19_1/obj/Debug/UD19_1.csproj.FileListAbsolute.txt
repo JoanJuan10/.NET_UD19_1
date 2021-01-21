@@ -11,3 +11,4 @@ C:\Users\Joan\source\repos\JoanJuan10\.NET_UD19_1\UD19_1\UD19_1\obj\Debug\UD19_1
 C:\Users\Joan\source\repos\JoanJuan10\.NET_UD19_1\UD19_1\UD19_1\obj\Debug\UD19_1.Form1.resources
 C:\Users\Joan\source\repos\JoanJuan10\.NET_UD19_1\UD19_1\UD19_1\obj\Debug\UD19_1.Ej2.resources
 C:\Users\Joan\source\repos\JoanJuan10\.NET_UD19_1\UD19_1\UD19_1\obj\Debug\UD19_1.Ej3.resources
+C:\Users\Joan\source\repos\JoanJuan10\.NET_UD19_1\UD19_1\UD19_1\obj\Debug\UD19_1.MiniCalculadora.resources

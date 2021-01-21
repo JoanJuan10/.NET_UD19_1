@@ -34,5 +34,11 @@ namespace UD19_1
             Form ej3 = new Ej3();
             ej3.Show();
         }
+
+        private void ej4Button_Click(object sender, EventArgs e)
+        {
+            Form calculadora = new MiniCalculadora();
+            calculadora.Show();
+        }
     }
 }

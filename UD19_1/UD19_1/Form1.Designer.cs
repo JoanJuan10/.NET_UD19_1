@@ -88,6 +88,7 @@ namespace UD19_1
             this.ej4Button.TabIndex = 4;
             this.ej4Button.Text = "Ejercicio 4";
             this.ej4Button.UseVisualStyleBackColor = true;
+            this.ej4Button.Click += new System.EventHandler(this.ej4Button_Click);
             // 
             // Form1
             // 

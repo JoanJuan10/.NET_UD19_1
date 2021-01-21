@@ -77,6 +77,7 @@ namespace UD19_1
             this.ej3Button.TabIndex = 3;
             this.ej3Button.Text = "Ejercicio 3";
             this.ej3Button.UseVisualStyleBackColor = true;
+            this.ej3Button.Click += new System.EventHandler(this.ej3Button_Click);
             // 
             // ej4Button
             // 

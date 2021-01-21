@@ -28,5 +28,11 @@ namespace UD19_1
             Form ej2 = new Ej2();
             ej2.Show();
         }
+
+        private void ej3Button_Click(object sender, EventArgs e)
+        {
+            Form ej3 = new Ej3();
+            ej3.Show();
+        }
     }
 }
